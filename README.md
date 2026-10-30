@@ -27,6 +27,7 @@ I am interested in scientific collaboration in veterinary virology, avian influe
 
 ## Connect
 
+- **Email:** [zulfekarvet@gmail.com](mailto:zulfekarvet@gmail.com)
 - **GitHub:** [@mdzulfekarali](https://github.com/mdzulfekarali)
 - **Google Scholar:** [View publications and citations](https://scholar.google.com/citations?hl=en&user=U7nXgQIAAAAJ)
 - **Publications repository:** [mdzulfekarali/publications](https://github.com/mdzulfekarali/publications)
