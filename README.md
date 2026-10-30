@@ -1,16 +1,32 @@
-## Hi there 👋
+# Dr Md Zulfekar Ali
 
-<!--
-**mdzulfekarali/mdzulfekarali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Scientist | Animal Health Research Division | Bangladesh Livestock Research Institute (BLRI)**
 
-Here are some ideas to get you started:
+Veterinarian and microbiologist working in animal health research, with interests in molecular biology, virology, and the epidemiology and evolution of emerging infectious diseases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Avian influenza viruses (AIV/HPAIV) and other emerging animal diseases
+- Veterinary virology and molecular epidemiology
+- Zoonoses and One Health
+- Antimicrobial resistance (AMR)
+- Viral genomics, phylogenetics, and evolutionary analysis
+- Veterinary immunoinformatics and reverse vaccinology
+
+## Scientific Publications
+
+Explore my research articles and scholarly contributions:
+
+- **[Complete Publications Catalogue](https://github.com/mdzulfekarali/publications)** — publication records organized in a dedicated repository
+- **[Publication List](https://github.com/mdzulfekarali/publications/blob/main/PUBLICATIONS.md)**
+- **[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=U7nXgQIAAAAJ)**
+
+## Research & Collaboration
+
+I am interested in scientific collaboration in veterinary virology, avian influenza surveillance, molecular epidemiology, emerging infectious diseases, and computational approaches to vaccine research.
+
+## Connect
+
+- **GitHub:** [@mdzulfekarali](https://github.com/mdzulfekarali)
+- **Google Scholar:** [View publications and citations](https://scholar.google.com/citations?hl=en&user=U7nXgQIAAAAJ)
+- **Publications repository:** [mdzulfekarali/publications](https://github.com/mdzulfekarali/publications)
