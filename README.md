@@ -20,6 +20,7 @@ Explore my research articles and scholarly contributions:
 - **[Complete Publications Catalogue](https://github.com/mdzulfekarali/publications)** — publication records organized in a dedicated repository
 - **[Publication List](https://github.com/mdzulfekarali/publications/blob/main/PUBLICATIONS.md)**
 - **[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=U7nXgQIAAAAJ)**
+- **[ORCID](https://orcid.org/0000-0002-3971-8699)**
 
 ## Research & Collaboration
 
